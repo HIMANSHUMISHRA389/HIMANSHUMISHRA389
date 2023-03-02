@@ -1,25 +1,134 @@
-<h1 align="center">Hi 👋, I'm</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+<!----------------------------------- Banner Section ------------------------------------>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshumishra389&label=Profile%20views&color=0e75b6&style=flat" alt="himanshumishra389" /> </p>
+[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)](https://HIMANSHUMISHRA389.github.io/)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi 🙋‍♂️ I'm Himanshu Mishra 
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-- 📫 How to reach me **Himanshumishra389@gmail.com**
+<!----------------------------------- About Section ------------------------------------>
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFbu70veMQ/V483dvR0OEQtVhfhFn08wA/edit?utm_content=DAFbu70veMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbu70veMQ/V483dvR0OEQtVhfhFn08wA/edit?utm_content=DAFbu70veMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-mishra-5302b4189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-mishra-5302b4189/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/himanshu_mishra_389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/himanshu_mishra_389/" height="30" width="40" /></a>
+# 💫 About Me:
+
+<img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+
+- 🔭 I’m currently preparing for placements!.
+- 🌱 I’m currently learning MERN Stack.
+<!-- need to add resume drive link -->
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1XAv9exk9MValhis3FlJQZM9Q0kkw-Dwu/view?usp=sharing) 
+- 💻 Know more about me [Portfilio](https://HIMANSHUMISHRA389.github.io/)
+- 💻 All of my projects are available at My [Github Repositories](https://github.com/HIMANSHUMISHRA389?tab=repositories)
+
+- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript
+
+- 😄 Pronouns: Web Developer/he/him/his
+- 💼 any freelance work? do reach, [email](mailto:himanshumishra389@gmail.com) :)
+  <br/>
+
+<h2 align="center">📱 Connect with me</h2>
+<br />
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh--Pratap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-pratap-singh-1611b923a/)](https://www.linkedin.com/in/saurabh-pratap-singh-1611b923a/)
+[![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishVa22310248)](https://twitter.com/Manish4387)
+[![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)](https://HIMANSHUMISHRA389.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:himanshumishra389@gmail.com)](mailto:himanshumishra389@gmail.com)
+
+
+</div>
+
+<br />
+
+<h2 align="center">🚀 Languages and Tools:</h2>
+<br/>
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+  <img src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" align="center" alt="java">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
+
+<br/>
+<br/>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HIMANSHUMISHRA389&label=Profile%20views&color=ee4e20&style=flat" alt="HIMANSHUMISHRA389" /> </p>
+
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>📈 My Github stats:</b></i> </h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/HIMANSHUMISHRA389/github-readme-stats"><img alt="HIMANSHUMISHRA389 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHUMISHRA389&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/HIMANSHUMISHRA389/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HIMANSHUMISHRA389&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/HIMANSHUMISHRA389/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=HIMANSHUMISHRA389&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="HIMANSHUMISHRA389" /></a>
+    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumishra389&show_icons=true&locale=en&layout=compact" alt="himanshumishra389" /></p>
+<!-- -------------------------- -->
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> :balance_scale: Github Profile Details</b></i> </h2>
+   <br/>   
+    <p align="center">      
+<a href="https://github.com/HIMANSHUMISHRA389">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIMANSHUMISHRA389&theme=radical" />
+</a>
+      </p>      
+     <br/>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=HIMANSHUMISHRA389&theme=vue" alt=""/> </p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshumishra389&show_icons=true&locale=en" alt="himanshumishra389" /></p>
+  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra389&" alt="himanshumishra389" /></p>
+<br/>
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/HIMANSHUMISHRA389/count.svg" />
+</h3>
