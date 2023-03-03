@@ -37,7 +37,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Himanshu--Mishra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-mishra-5302b4189/)](https://www.linkedin.com/in/himanshu-mishra-5302b4189/)
 [![Twitter Badge](https://img.shields.io/badge/-%40Manish4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishVa22310248)](https://twitter.com/Manish4387)
 [![Website Badge](https://img.shields.io/badge/-Manish--Verma-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manish-verma-portfolio.vercel.app/)](https://HIMANSHUMISHRA389.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-manish119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:himanshumishra389@gmail.com)](mailto:himanshumishra389@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-himanshumishra-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:himanshumishra389@gmail.com)](mailto:himanshumishra389@gmail.com)
 
 
 </div>
